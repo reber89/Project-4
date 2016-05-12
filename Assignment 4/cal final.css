@@ -1,0 +1,26 @@
+ *{
+	 font-family: 'Lobster', cursive;
+}
+body {
+  background-color: black;
+ }
+
+table {
+  margin: auto;
+}
+
+tr {
+  width: 100px;
+  height: 100px;
+  font-size: 10px;
+  text-align: center;
+  background-color: #87CEFA;
+}
+
+td {
+  font-size: 10px;
+}
+
+input {
+  background-color: #EEE8AA;
+}
